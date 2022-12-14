@@ -9,6 +9,4 @@
 *.out
 *.synctex.gz
 *.ps
-*.png
-*.jpeg
-*.webp
+.ipynb_checkpoints
