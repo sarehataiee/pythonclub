@@ -1,0 +1,14 @@
+*~
+*.~*
+.*~
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.log
+*.out
+*.synctex.gz
+*.ps
+*.png
+*.jpeg
+*.webp
